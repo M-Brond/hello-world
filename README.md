@@ -2,7 +2,11 @@
 <html>
 
 <head>
-  <title>Vacation World</title>
+  <style>
+    p {
+      font-family: Arial;
+    }
+  </style>
 </head>
 
 <body>
