@@ -7,6 +7,7 @@
       font-family: Arial;
     }
   </style>
+  <title>Vacation World</title>
 </head>
 
 <body>
